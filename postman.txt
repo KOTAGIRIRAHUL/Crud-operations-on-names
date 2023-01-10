@@ -1,0 +1,7 @@
+{
+            "namesId" : "3",
+            "namesName" : "new",
+            "namesGender" : "fruit",
+            "location" : "hyd",
+            "namesEmail" : "n@gmail.com"
+ }
